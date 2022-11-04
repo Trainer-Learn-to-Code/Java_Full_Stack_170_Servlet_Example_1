@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+h2{
+	background-color: yellow;
+}
+
+#div2{
+	background-color: green;
+}
+
+#div3{
+	background-color: gray;
+}
+
+.def1{
+	text-align: center;
+}
+
+h3.def1{
+	color: yellow;
+}
+h4,h5,h6{
+	text-align: right;
+}
+
+/* *{
+	padding: 100px;
+} */
+
+div {
+	/* background-color: red; */
+	background-image: url("java_logo.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: inherit;
+}
